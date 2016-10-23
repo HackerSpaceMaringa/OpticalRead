@@ -15,8 +15,7 @@ Algoritmo para extrair informações de um vídeo e enviá-las por protocolo OSC
     http://askubuntu.com/questions/101591/how-do-i-install-python-2-7-2-on-ubuntu
 
 ### Como instalar pyOSC
-    'https://github.com/ptone/pyosc
+    https://github.com/ptone/pyosc
 
-### Como Instalar Opencv
-    O site abaixo já tem o necessário(lembre de dar um checkout no 3.1.0)
+### Como Instalar Opencv(3.1.0)
     http://www.pyimagesearch.com/2015/06/22/install-opencv-3-0-and-python-2-7-on-ubuntu/

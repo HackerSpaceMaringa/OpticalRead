@@ -33,7 +33,7 @@ Algoritmo para extrair informações de um vídeo e enviá-las por protocolo OSC
 Para este projeto foi utilizado o método [Lucas-Kanade](https://en.wikipedia.org/wiki/Lucas%E2%80%93Kanade_method), um método diferencial para estimar fluxos ópticos. Utilizamos o algoritmo presente no Opencv.
 
 ### Protocolo
-O protocolo [OSC](https://en.wikipedia.org/wiki/Open_Sound_Control) é utilizado para envio das informações extraídas do vídeo, se caracterizando em 3 tipos de mensagens:
+O protocolo [OSC](https://en.wikipedia.org/wiki/Open_Sound_Control) é utilizado para envio das informações extraídas do vídeo. Utilizamos 3 tipos de mensagens:
 
 - "/config": 
     - Height: Altura de cada frame;

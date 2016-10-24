@@ -131,7 +131,7 @@ while True:
         if (Height == 0 or Width == 0):
             Height, Width = GImg.shape
             Prev = getFixedPoints(Height, Width)
-            client.send( OSCMessage("/config", (Height, Width, Span, MinThreshold, MaxThreshold)) )
+            client.send( OSCMessage("/config", ((Height, Width), Span, MinThreshold, MaxThreshold)) )
             verbosePrint(Height, Width)
 
         Vec = []

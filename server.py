@@ -22,7 +22,9 @@ def payload_callback(path, tags, args, source):
         idx += 4
 
 def config_callback(path, tags, args, source):
-    print "Height: " + str(args[0]) + " Width: " + str(args[1]) + " Span: " + str(args[2])
+    print "Height: " + str(args[0]) + " Width: " + str(args[1])
+    print "Span: " + str(args[2])
+    print "MinThreshold: " + str(args[3]) + " MaxThreshold: " + str(args[4])
 
 def quit_callback(path, tags, args, source):
     global run

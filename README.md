@@ -48,8 +48,8 @@ O protocolo [OSC](https://en.wikipedia.org/wiki/Open_Sound_Control) é utilizado
     - Mensagem de finalização de análise para o servidor.
 
 ### Créditos
-- Caio Henrique Segawa Tonetti
-- Marcos Yukio Siraichi
+- [Caio Henrique Segawa Tonetti](https://github.com/LionsWrath)
+- [Marcos Yukio Siraichi](https://github.com/YuKill)
 
 ### Colaboradores
 - Rael Gimenes Toffolo

@@ -44,6 +44,7 @@ Thumbs.db
 ########
 output.txt
 err.txt
+out.txt
 
 ### Vim ###
 # swap

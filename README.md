@@ -15,6 +15,10 @@
 
 Algoritmo para extrair informações de um vídeo e enviá-las por protocolo OSC a um servidor
 
+<p align="center">
+    <img src="example.gif" alt="Example gif"/>
+</p>
+
 ### Tecnologias usadas
 - Python - version 2.7
 - pyOSC - version 0.3.6.post6832

@@ -1,4 +1,3 @@
-#! /usr/bin/python
 # Verificar direcao predominante em vetores
 
 import argparse
